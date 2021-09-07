@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fabricio-M97
+- 👀 I’m interested in programming and support users
+- 🌱 I’m currently learning about python
+- 📫 How to reach me https://www.linkedin.com/in/fabricio-duarte-meireles-7a762a210/
